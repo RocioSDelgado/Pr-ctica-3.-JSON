@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mercadona>
+    <direccion>Calle Martínez Maldonado, 6</direccion>
+    <codigoPostal>29007</codigoPostal>
+    <coordenadas>
+        <norte>36.7218678</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>4.4321992</oeste>
+    </coordenadas>
+    <productos>
+        <panaderia>
+            <producto>Pitufo</producto>
+            <marca>San Roque</marca>
+            <origen>España</origen>
+            <informacion>
+                <unidades>4</unidades>
+                <formato>envasado</formato>
+                <cantidad>220</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precio>1.33</precio>
+            <perecedero>true</perecedero>
+            <comprado>false</comprado>
+        </panaderia>
+
+        <panaderia>
+            <producto>Mollete</producto>
+            <marca>El Amtequerano</marca>
+            <informacion>
+                <unidades>2</unidades>
+                <formato>envasado</formato>
+                <cantidad>130</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precio>1.45</precio>
+            <perecedero>true</perecedero>
+            <comprado>true</comprado>
+        </panaderia>
+
+        <fruteria>
+            <producto>Mandarina</producto>
+            <marca>Halos</marca>
+            <informacion>
+                <unidades>20</unidades>
+                <formato>malla</formato>
+                <cantidad>1</cantidad>
+                <unidadMedida>kilo gramos</unidadMedida>
+            </informacion>
+            <precio>4.30</precio>
+            <perecedero>true</perecedero>
+            <comprado>true</comprado>
+        </fruteria>
+        <fruteria>
+            <producto>Tomate</producto>
+            <marca>Mercadona</marca>
+            <informacion>
+                <unidades>5</unidades>
+                <formato>al peso</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precio>1.19</precio>
+            <perecedero>true</perecedero>
+            <comprado>true</comprado>
+        </fruteria>
+    </productos>
+</Mercadona>

@@ -1,0 +1,219 @@
+{
+  "Mercadona": [
+    {
+      "direccion": "Calle Martínez Maldonado, 6",
+      "codigoPostal": 29007,
+      "coordenadas": [
+        "36.7218678 N",
+        "-4.4321992 O"
+      ],
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "Pitufo",
+              "marca": "San Roque",
+              "origen": "España",
+              "informacion": {
+                "unidades": 4,
+                "formato": "envasado",
+                "cantidad": 220,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.33,
+              "perecedero": true,
+              "comprado": false
+            },
+
+            {
+              "producto": "Mollete",
+              "marca": "El Amtequerano",
+              "informacion": {
+                "unidades": 2,
+                "formato": "envasado",
+                "cantidad": 130,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.45,
+              "perecedero": true,
+              "comprado": true
+            }
+          ],
+          
+          "fruteria": [
+            {
+              "producto": "Mandarina",
+              "marca": "Halos",
+              "informacion": {
+                "unidades": 20,
+                "formato": "malla",
+                "cantidad": 1,
+                "unidadMedida": "kilo gramos"
+              },
+              "precioVta": 4.30,
+              "perecedero": true,
+              "comprado": true
+            },
+            {
+              "producto": "Tomate",
+              "marca": "Mercadona",
+              "informacion": {
+                "unidades": 5,
+                "formato": "al peso",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.19,
+              "perecedero": true,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  
+  "Lidl": [
+    {
+      "direccion": "Calle Armengual de la Mota, 20",
+      "codigoPostal": 29007,
+      "coordenadas":[
+        "36.7198473 N",
+        "-4.4291099 O"
+      ],
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "Chapata cristal",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 5,
+                "formato": "al peso",
+                "cantidad": 200,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.10,
+              "perecedero": true,
+              "comprado": false
+            },
+            {
+              "producto": "panecillo de matalahúva",
+              "marca": "La cestera",
+              "informacion": {
+                "unidades": 2,
+                "formato": "fresco",
+                "cantidad": 230,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.75,
+              "perecedero": true,
+              "comprado": true
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "pimiento verde",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 4,
+                "formato": "al peso",
+                "cantidad": 100,
+                "unidadMedida": "gramos"
+              },
+              "precio": 0.42,
+              "perecedero": true,
+              "comprado": true
+            },
+            {
+              "producto": "manzana",
+              "marca": "Pink lady",
+              "informacion": {
+                "unidades": 4,
+                "formato": "pack",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precio": 2.97,
+              "perecedero": true,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+
+  "Dia": [
+    {
+      "direccion": "Calle Don Juan de Austria, 32",
+      "codigoPostal": 29009,
+      "coordenadas":[
+        "36.7259504 N",
+        "-4.4285987 O"
+      ],
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan integral de trigo",
+              "marca": "El molino de Dia",
+              "informacion": {
+                "unidades": 22,
+                "formato": "pack",
+                "cantidad": 600,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.79,
+              "perecedero": true,
+              "comprado": true
+            },
+            {
+              "producto": "Campero",
+              "marca": "Bimbo",
+              "informacion": {
+                "unidades": 2,
+                "formato": "envasado",
+                "cantidad": 170,
+                "unidadMedida": "gramos"
+              },
+              "precio": 3.00,
+              "perecedero": true,
+              "comprado": false
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "Patata",
+              "marca": "Día",
+              "informacion": {
+                "unidades": 5,
+                "formato": "al peso",
+                "cantidad": 250,
+                "unidadMedida": "gramos"
+              },
+              "precio": 1.59,
+              "perecedero": true,
+              "comprado": false
+            },
+            {
+              "producto": "Uva sin pepitas",
+              "marca": "El ciruelo",
+              "informacion": {
+                "unidades": 1,
+                "formato": "pack",
+                "cantidad": 720,
+                "unidadMedida": "gramos"
+              },
+              "precio": 2.39,
+              "perecedero": true,
+              "comprado": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
